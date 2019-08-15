@@ -4,10 +4,20 @@ title: The Cave Entrance
 back: /game/start.html
 ---
 
-As you enter the cave, 
+![A Stalactite](/game/images/Stalactite.jpeg){: height="80"}
+![A Stalactite](/game/images/Stalactite.jpeg){: height="80"}
+![A Stalactite](/game/images/Stalactite.jpeg){: height="80"}
+![A Stalactite](/game/images/Stalactite.jpeg){: height="80"}
+![A Stalactite](/game/images/Stalactite.jpeg){: height="80"}
+![A Stalactite](/game/images/Stalactite.jpeg){: height="80"}
+![A Stalactite](/game/images/Stalactite.jpeg){: height="80"}
+![A Stalactite](/game/images/Stalactite.jpeg){: height="80"}
 
-#todo:question
 
-[![Choice1:](/game/images/Arrow.jpg){: height="20"} #todo:choice1](#todo:link1)
+As you enter the cave, you notice the stalactites are getting looser!
 
-[![Choice2:](/game/images/Arrow.jpg){: height="20"} #todo:choice2](#todo:link2)
+Do you exit the cave safely and go back home, or try to run through the chamber before the stalactites fall?
+
+[![Choice1:](/game/images/Arrow.jpg){: height="20"} Exit the Cave](scared.html)
+
+[![Choice2:](/game/images/Arrow.jpg){: height="20"} Run Through the Chamber](running.html)
